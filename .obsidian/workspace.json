@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "3822a563cf994b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fce563ca6334f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "400421c971c56fa0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e110ebf28f2c7f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "104fb5f1c5eab3af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa08dbf3ad1e95c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73c13e50be4daa91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"aliases\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "155fd0795c78d51c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86576dbecb98ff1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeab45e98b384755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a748b33c7b57f8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42cb2cc158ce8084",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0b122c79608a5da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9951908e9e49a043",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "ddf781df4499788b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-ziyunote:子魚笔记": false
+    }
+  },
+  "active": "73c13e50be4daa91",
+  "lastOpenFiles": [
+    "2022 ICT Mentorship/03 内部流动性和市场结构转换.md",
+    "模板_副本/视频模板.md",
+    "截图_副本/Pasted image 20230914195223.png",
+    "截图_副本/Pasted image 20230915000918.png",
+    "截图_副本/Pasted image 20230915000701.png",
+    "截图_副本/Pasted image 20230910230856.png",
+    "截图_副本/Pasted image 20230914102706.png",
+    "截图_副本/Pasted image 20230913185636.png",
+    "截图_副本/Pasted image 20230920235757.png",
+    "截图_副本/Pasted image 20230914161640.png",
+    "截图_副本/Pasted image 20230914150613.png",
+    "截图_副本/Pasted image 20230913185729.png",
+    "交易日志_副本/2023-09-20.md",
+    "基础概念_副本/订单块.md",
+    "基础概念_副本/突破块.md",
+    "基础概念_副本/成交量失衡.md",
+    "基础概念_副本/公允价值缺口.md",
+    "基础概念_副本/反转.md",
+    "基础概念_副本/盘整.md",
+    "基础概念_副本/流动池.md",
+    "基础概念_副本/市场结构转换.md",
+    "基础概念_副本/回撤.md",
+    "2023 ICT Mentorship_副本/01 引言.md",
+    "2023 ICT Mentorship_副本/67 永久使用的形态.md",
+    "2023 ICT Mentorship_副本/银弹.md",
+    "2022 ICT Mentorship_副本/02 交易形态的基本要素.md",
+    "2022 ICT Mentorship_副本/03 内部流动性和市场结构转换.md",
+    "2016 ICT Mentorship_副本/3月/04 预期技能发展.md",
+    "2016 ICT Mentorship_副本/3月/03 机构赞助.md",
+    "2016 ICT Mentorship_副本/3月/02 机构订单流.md",
+    "2016 ICT Mentorship_副本/3月",
+    "2016 ICT Mentorship_副本/2月/07 做市商陷阱-假旗帜.md",
+    "2016 ICT Mentorship_副本/2月",
+    "2016 ICT Mentorship_副本/1月/04 均衡与折价.md",
+    "2016 ICT Mentorship_副本/1月/03 现在应该关注什么.md",
+    "2016 ICT Mentorship_副本/1月/02 做市商如何调节市场.md",
+    "2016 ICT Mentorship_副本/1月/01 交易形态的要素.md",
+    "2016 ICT Mentorship_副本/1月",
+    "ICT_副本.md",
+    "未命名.canvas_副本",
+    "未命名 2.canvas_副本",
+    "2016 ICT Mentorship 1月 第一集 案例.canvas_副本",
+    "模板_副本",
+    "截图_副本",
+    "交易日志_副本",
+    "基础概念_副本",
+    "2016 ICT Mentorship 1月 第一集 案例.canvas",
+    "未命名 2.canvas",
+    "未命名.canvas"
+  ]
+}

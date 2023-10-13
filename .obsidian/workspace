@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "3822a563cf994b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3617fc9b38bf72f9",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e110ebf28f2c7f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "104fb5f1c5eab3af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa08dbf3ad1e95c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73c13e50be4daa91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86576dbecb98ff1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeab45e98b384755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a748b33c7b57f8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3617fc9b38bf72f9",
+  "lastOpenFiles": [
+    "read me.md",
+    "Listening/part3.md",
+    "Listening/part2.md",
+    "Word/Word.md",
+    "Word/表示开心的词语.md",
+    "Word/表示放松的词语.md",
+    "pronoun/Untitled.md",
+    "Reading/part1.md",
+    "Reading/sentence.md",
+    "Listening/part 1.md"
+  ]
+}
