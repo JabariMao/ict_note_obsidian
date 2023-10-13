@@ -11,8 +11,24 @@
             "id": "400421c971c56fa0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "github test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af0fe1cf2645952a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -61,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "github test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "github test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -152,8 +169,10 @@
       "obsidian-ziyunote:子魚笔记": false
     }
   },
-  "active": "73c13e50be4daa91",
+  "active": "400421c971c56fa0",
   "lastOpenFiles": [
+    "ICT.md",
+    "github test.md",
     "2022 ICT Mentorship/03 内部流动性和市场结构转换.md",
     "模板_副本/视频模板.md",
     "截图_副本/Pasted image 20230914195223.png",
@@ -190,9 +209,7 @@
     "2016 ICT Mentorship_副本/1月/04 均衡与折价.md",
     "2016 ICT Mentorship_副本/1月/03 现在应该关注什么.md",
     "2016 ICT Mentorship_副本/1月/02 做市商如何调节市场.md",
-    "2016 ICT Mentorship_副本/1月/01 交易形态的要素.md",
     "2016 ICT Mentorship_副本/1月",
-    "ICT_副本.md",
     "未命名.canvas_副本",
     "未命名 2.canvas_副本",
     "2016 ICT Mentorship 1月 第一集 案例.canvas_副本",
