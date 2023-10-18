@@ -11,12 +11,10 @@
             "id": "400421c971c56fa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "staged": false
               }
             }
           }
@@ -87,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +157,11 @@
   },
   "active": "400421c971c56fa0",
   "lastOpenFiles": [
+    "2023 ICT Mentorship/11 2023年1月25日分析.md",
     "截图/Pasted image 20231018135357.png",
     "截图/Pasted image 20231018112953.png",
     "截图/Pasted image 20231018102858.png",
     "镑美.md",
-    "2023 ICT Mentorship/11 2023年1月25日分析.md",
     "基础概念/纳斯达克.md",
     "2023 ICT Mentorship/08 ES实盘执行&平均阈值风险管理.md",
     "2022 ICT Mentorship/07 日内偏见和盘整障碍.md",
@@ -191,7 +187,6 @@
     "截图_副本/Pasted image 20230915000918.png",
     "截图_副本/Pasted image 20230915000701.png",
     "截图_副本/Pasted image 20230910230856.png",
-    "截图_副本/Pasted image 20230914102706.png",
     "交易日志_副本/2023-09-20.md",
     "基础概念_副本/订单块.md",
     "基础概念_副本/突破块.md",
