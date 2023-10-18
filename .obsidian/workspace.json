@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github test.md",
+                "file": "ICT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github test.md",
+                "file": "ICT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github test.md",
+                "file": "ICT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,8 @@
   },
   "active": "5b85b86b96d2b5cc",
   "lastOpenFiles": [
-    "ICT.md",
     "github test.md",
+    "ICT.md",
     "2023 ICT Mentorship/11 2023年1月25日分析.md",
     "2016 ICT Mentorship 1月 第一集 案例.canvas",
     "2023年10月18日15点21分更新笔记.md",
