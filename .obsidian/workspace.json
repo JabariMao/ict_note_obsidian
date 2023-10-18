@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6fce563ca6334f5d",
+        "id": "c9d1124471fd1244",
         "type": "tabs",
         "children": [
           {
-            "id": "400421c971c56fa0",
+            "id": "5a0d6ac05fadc6ee",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
-                "staged": false
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3333039e43b13cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023年10月18日15点21分更新笔记.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "86576dbecb98ff1c",
@@ -85,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023年10月18日15点21分更新笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023年10月18日15点21分更新笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +172,11 @@
       "obsidian-ziyunote:子魚笔记": false
     }
   },
-  "active": "400421c971c56fa0",
+  "active": "3333039e43b13cbb",
   "lastOpenFiles": [
     "2023 ICT Mentorship/11 2023年1月25日分析.md",
+    "2023年10月18日15点21分更新笔记.md",
+    "2023 ICT Mentorship/67 永久使用的形态.md",
     "截图/Pasted image 20231018135357.png",
     "截图/Pasted image 20231018112953.png",
     "截图/Pasted image 20231018102858.png",
@@ -191,7 +210,6 @@
     "基础概念_副本/订单块.md",
     "基础概念_副本/突破块.md",
     "基础概念_副本/成交量失衡.md",
-    "基础概念_副本/公允价值缺口.md",
     "2016 ICT Mentorship_副本/3月",
     "2016 ICT Mentorship_副本/2月",
     "2016 ICT Mentorship_副本/1月",
