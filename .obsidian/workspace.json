@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICT.md",
+                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "86576dbecb98ff1c",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICT.md",
+                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICT.md",
+                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +175,8 @@
   },
   "active": "5b85b86b96d2b5cc",
   "lastOpenFiles": [
-    "github test.md",
     "ICT.md",
+    "github test.md",
     "2023 ICT Mentorship/11 2023年1月25日分析.md",
     "2016 ICT Mentorship 1月 第一集 案例.canvas",
     "2023年10月18日15点21分更新笔记.md",
