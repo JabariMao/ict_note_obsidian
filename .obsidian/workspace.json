@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d1124471fd1244",
+        "id": "5b82cd88ca308d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "5a0d6ac05fadc6ee",
+            "id": "247630208b4defb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b85b86b96d2b5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
+                "file": "2023 ICT Mentorship/14 价格走势回顾&下午时段反转模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ict2022",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "86576dbecb98ff1c",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
+                "file": "2023 ICT Mentorship/14 价格走势回顾&下午时段反转模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 ICT Mentorship/11 2023年1月25日分析.md",
+                "file": "2023 ICT Mentorship/14 价格走势回顾&下午时段反转模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +159,20 @@
       "obsidian-ziyunote:子魚笔记": false
     }
   },
-  "active": "5b85b86b96d2b5cc",
+  "active": "247630208b4defb9",
   "lastOpenFiles": [
+    "2023 ICT Mentorship/11 2023年1月25日市场分析.md",
+    "2023 ICT Mentorship/12 标普市场回顾 2023年1月26日.md",
+    "2023 ICT Mentorship/13 机构市场结构&卖方流动性标准差.md",
+    "2023 ICT Mentorship/14 价格走势回顾&下午时段反转模型.md",
+    "2022 ICT Mentorship/07 日内偏见和盘整障碍.md",
+    "2022 ICT Mentorship/06 市场效率范式和机构订单流.md",
+    "2022 ICT Mentorship/05 日内订单流和理解每日交易时段.md",
+    "2022 ICT Mentorship/03 内部流动性和市场结构转换.md",
+    "2022 ICT Mentorship/02 交易形态的基本要素.md",
+    "2023 ICT Mentorship/67 永久使用的形态.md",
     "test2.md",
     "test.md",
-    "2023 ICT Mentorship/11 2023年1月25日分析.md",
     "ICT.md",
     "github test.md",
     "2016 ICT Mentorship 1月 第一集 案例.canvas",
@@ -185,34 +181,25 @@
     "未命名.canvas",
     "未命名 2.canvas",
     "基础概念/流动性.md",
-    "2023 ICT Mentorship/67 永久使用的形态.md",
     "截图/Pasted image 20231018135357.png",
     "截图/Pasted image 20231018112953.png",
     "截图/Pasted image 20231018102858.png",
     "基础概念/镑美.md",
     "基础概念/纳斯达克.md",
     "2023 ICT Mentorship/08 ES实盘执行&平均阈值风险管理.md",
-    "2022 ICT Mentorship/07 日内偏见和盘整障碍.md",
     "基础概念/预期.md",
     "基础概念/偏见.md",
-    "2022 ICT Mentorship/06 市场效率范式和机构订单流.md",
     "2016 ICT Mentorship/3月/04 预期技能发展.md",
-    "2022 ICT Mentorship/05 日内订单流和理解每日交易时段.md",
-    "2022 ICT Mentorship/03 内部流动性和市场结构转换.md",
     "模板/视频模板.md",
     "截图/Pasted image 20231016103145.png",
     "2016 ICT Mentorship/1月/04 均衡与折价.md",
     "2016 ICT Mentorship/3月/03 机构赞助.md",
     "截图/Pasted image 20231015203440.png",
     "截图/Pasted image 20231015203212.png",
-    "基础概念/内部区间流动性.md",
-    "基础概念/订单块.md",
-    "模板_副本/视频模板.md",
     "截图_副本/Pasted image 20230914195223.png",
     "截图_副本/Pasted image 20230915000918.png",
     "截图_副本/Pasted image 20230915000701.png",
     "截图_副本/Pasted image 20230910230856.png",
-    "交易日志_副本/2023-09-20.md",
     "2016 ICT Mentorship_副本/3月",
     "2016 ICT Mentorship_副本/2月",
     "2016 ICT Mentorship_副本/1月",
