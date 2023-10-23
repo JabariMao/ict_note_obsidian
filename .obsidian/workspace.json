@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "86576dbecb98ff1c",
@@ -161,15 +160,17 @@
   },
   "active": "247630208b4defb9",
   "lastOpenFiles": [
+    "ict 12 models/模型1 日内剥头皮模型.md",
+    "2022 ICT Mentorship/06 市场效率范式和机构订单流.md",
+    "2022 ICT Mentorship/07 日内偏见和盘整障碍.md",
+    "2022 ICT Mentorship/02 交易形态的基本要素.md",
+    "2022 ICT Mentorship/03 内部流动性和市场结构转换.md",
+    "2023 ICT Mentorship/14 价格走势回顾&下午时段反转模型.md",
+    "ict 12 models",
     "2023 ICT Mentorship/11 2023年1月25日市场分析.md",
     "2023 ICT Mentorship/12 标普市场回顾 2023年1月26日.md",
     "2023 ICT Mentorship/13 机构市场结构&卖方流动性标准差.md",
-    "2023 ICT Mentorship/14 价格走势回顾&下午时段反转模型.md",
-    "2022 ICT Mentorship/07 日内偏见和盘整障碍.md",
-    "2022 ICT Mentorship/06 市场效率范式和机构订单流.md",
     "2022 ICT Mentorship/05 日内订单流和理解每日交易时段.md",
-    "2022 ICT Mentorship/03 内部流动性和市场结构转换.md",
-    "2022 ICT Mentorship/02 交易形态的基本要素.md",
     "2023 ICT Mentorship/67 永久使用的形态.md",
     "test2.md",
     "test.md",
@@ -193,7 +194,6 @@
     "模板/视频模板.md",
     "截图/Pasted image 20231016103145.png",
     "2016 ICT Mentorship/1月/04 均衡与折价.md",
-    "2016 ICT Mentorship/3月/03 机构赞助.md",
     "截图/Pasted image 20231015203440.png",
     "截图/Pasted image 20231015203212.png",
     "截图_副本/Pasted image 20230914195223.png",
@@ -208,7 +208,6 @@
     "2016 ICT Mentorship 1月 第一集 案例.canvas_副本",
     "模板_副本",
     "截图_副本",
-    "交易日志_副本",
-    "基础概念_副本"
+    "交易日志_副本"
   ]
 }
